@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 8dc2aa451086d21449f604eef71f5994
+timeCreated: 1498594833
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Katto
+    100002: Lattia
+    100004: Laude_ala
+    100006: Laude_lauta
+    100008: Laude_lauta.001
+    100010: Laude_lauta.002
+    100012: Laude_lauta.003
+    100014: Laude_lauta.004
+    100016: Laude_lauta.005
+    100018: Laude_lauta.006
+    100020: Laude_lauta.007
+    100022: Laude_yla
+    100024: //RootNode
+    100026: Sauna
+    100028: Seina_ikkuna
+    100030: Seina_kulmalla
+    100032: Seina_ovi
+    100034: Seina_taka
+    400000: Katto
+    400002: Lattia
+    400004: Laude_ala
+    400006: Laude_lauta
+    400008: Laude_lauta.001
+    400010: Laude_lauta.002
+    400012: Laude_lauta.003
+    400014: Laude_lauta.004
+    400016: Laude_lauta.005
+    400018: Laude_lauta.006
+    400020: Laude_lauta.007
+    400022: Laude_yla
+    400024: Sauna
+    400026: //RootNode
+    400028: Seina_ikkuna
+    400030: Seina_kulmalla
+    400032: Seina_ovi
+    400034: Seina_taka
+    2300000: Katto
+    2300002: Lattia
+    2300004: Laude_lauta
+    2300006: Laude_lauta.001
+    2300008: Laude_lauta.002
+    2300010: Laude_lauta.003
+    2300012: Laude_lauta.004
+    2300014: Laude_lauta.005
+    2300016: Laude_lauta.006
+    2300018: Laude_lauta.007
+    2300020: Seina_ikkuna
+    2300022: Seina_kulmalla
+    2300024: Seina_ovi
+    2300026: Seina_taka
+    3300000: Katto
+    3300002: Lattia
+    3300004: Laude_lauta
+    3300006: Laude_lauta.001
+    3300008: Laude_lauta.002
+    3300010: Laude_lauta.003
+    3300012: Laude_lauta.004
+    3300014: Laude_lauta.005
+    3300016: Laude_lauta.006
+    3300018: Laude_lauta.007
+    3300020: Seina_ikkuna
+    3300022: Seina_kulmalla
+    3300024: Seina_ovi
+    3300026: Seina_taka
+    4300000: Katto
+    4300002: Seina_ovi
+    4300004: Seina_taka
+    4300006: Seina_kulmalla
+    4300008: Seina_ikkuna
+    4300010: Lattia
+    4300012: Laude_lauta.007
+    4300014: Laude_lauta.006
+    4300016: Laude_lauta.005
+    4300018: Laude_lauta.004
+    4300020: Laude_lauta
+    4300022: Laude_lauta.001
+    4300024: Laude_lauta.002
+    4300026: Laude_lauta.003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
